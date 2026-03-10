@@ -125,4 +125,3 @@ jupyter notebook ML.ipynb
 ## Author
 
 Aiswarya T
-IIT Madras BS Degree in Data Science and Applications
